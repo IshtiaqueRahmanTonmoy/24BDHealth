@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="headline">#960912</color>
+    <color name="background">#74FFD3</color>
+    <color name="red">#566396</color>
+    <color name="titlecolor">#ff3308</color>
+    <color name="title">#5b32ff</color>
+    <color name="dt">#ff2776</color>
+    <color name="designation">#317319</color>
+    <color name="hospital">#152b71</color>
+    <color name="address">#111f73</color>
+</resources>
